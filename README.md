@@ -1,7 +1,25 @@
-# CreateTimelapse
-Transform videos in a folder into timelapse of custom length
+## Description
 
+Transform videos in a folder into timelapse of custom length
 Script creado con la intención de convertir los clips de la action camera en timelapse
+
+## Author
+**Boris Sobreira Paleo**
+
+* [LinkedIn](https://www.linkedin.com/in/borissobreirapaleo)
+* [GitHub](https://github.com/BorisSobreiraPaleo)
+* [HackerRank](https://www.hackerrank.com/profile/borissobreira)
+* [LeetCode](https://leetcode.com/BorisSobreiraPaleo)
+
+## Watch live example
+- [borissobreirapaleo.com](https://www.borissobreirapaleo.com/)
+
+## Hiring
+If you want to hire me you can contact me at webcontact@borissobreirapaleo.com or [Telegram](https://t.me/SevenSie7e)
+
+
+## License
+MIT License
 
 DOCUMENTACIÓN:
 
