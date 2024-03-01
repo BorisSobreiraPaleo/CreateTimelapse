@@ -31,11 +31,11 @@ Copy createTimelapse_vX.bat, ffmpeg.exe and the video or videos on which you wan
 Run createTimelapse_vX.bat and follow the instructions.
 
 INSTRUCTIONS:
-1. ALWAYS HAVE A BACKUP COPY OF THE FILES TO BE PROCESSED.
-2. USE THIS BAT IN AN ISOLATED FOLDER AND EXCLUSIVELY FOR THIS WORK.
-3. THE CONCATENATION ORDER OF THE FILES WILL BE THE SAME AS THE ALPHABETICAL ORDER OF THE FILES. IF NECESSARY, RENAME THEM BEFORE EXECUTION.
-4. THE RESULTING FILE WILL HAVE THE NAME OF THE .bat FOLDER.
-5. USE AT YOUR OWN RISK.
+1. Always have a backup copy of the files to be processed.
+2. Use this bat in an isolated folder and exclusively for this work.
+3. The concatenation order of the files will be the same as the alphabetical order of the files. if necessary, rename them before execution.
+4. The resulting file will have the name of the .bat folder.
+5. Use at your own risk.
 
 ## License 📄
 MIT License
